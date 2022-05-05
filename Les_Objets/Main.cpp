@@ -6,8 +6,9 @@
 #include <string.h>
 
 int main() {
-	printf_s("Oui");
-	printf_s("Version 1.0 du prograùùe Cpp\n");
-
+	//test
+	printf_s("Version 1.0 du programme Cpp\n");
+	printf_s("Test");
+	
 	return 0;
 }
