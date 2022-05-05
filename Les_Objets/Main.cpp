@@ -6,7 +6,7 @@
 #include <string.h>
 
 int main() {
-	
+	printf_s("Oui");
 	printf_s("Version 1.0 du prograùùe Cpp\n");
 
 	return 0;
